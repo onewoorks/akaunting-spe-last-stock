@@ -2,16 +2,16 @@
 
  1. Create module using artisan
 
-> $ php artisan module:make SpeReport
-> $ cd modules
-> $ rm -rf SpeReport
-> $ cd ..
-> $ git clone "this module"
+> $ php artisan module:make SpeReport<br>
+> $ cd modules<br>
+> $ rm -rf SpeReport<br> 
+> $ cd ..<br>
+> $ git clone "this module"<br>
 > $ php artisan module:install spereport {*company_id*}
 
  2. Add Permission at Auth
-> **name**: Read module SPE Report
-> **code**: read-module-spe-report
+> **name**: Read module SPE Report<br>
+> **code**: read-module-spe-report<br>
 
 2. Add Menu
 
