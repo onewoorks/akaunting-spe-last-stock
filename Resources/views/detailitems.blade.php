@@ -10,7 +10,7 @@
     </div>
 
     <div class="box-body">
-        report body
+        ini detail item pulak
     </div>
 </div>
 @endsection

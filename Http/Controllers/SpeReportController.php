@@ -26,6 +26,10 @@ class SpeReportController extends Controller
         // ]);
     }
 
+    public function detailitems(){
+        return view('spereport::detailitems');
+    }
+
     /**
      * Show the form for creating a new resource.
      * @return Response
